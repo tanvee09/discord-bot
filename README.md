@@ -5,3 +5,6 @@ discord.py and praw libraries used
   
 [Add bot to your server](https://discord.com/api/oauth2/authorize?client_id=755728224373309531&permissions=271969392&scope=bot)  
 [Visit our website](https://iamboredbot.netlify.app/)  
+  
+### Commands Availabe
+<img src="https://github.com/tanvee09/tanvee09/blob/master/images/commandlist.png" width="400px"/>
